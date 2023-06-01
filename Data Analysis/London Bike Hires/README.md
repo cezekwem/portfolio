@@ -18,6 +18,7 @@ The data was retrieved from "bigquery public datasets" and exported as a CSV to 
 ![image](https://github.com/cezekwem/portfolio/assets/135195102/c3a0b843-c431-454c-9f78-04f80fdb3e5d)
 
 **DATA ANALYSIS & VISUALIZATION**
+
 After importing the data into Excel, i uploaded the dataset to Tableau and went ahead to create the dashboard there. 
 
 ![london_bikes tableau ](https://github.com/cezekwem/portfolio/assets/135195102/47465c07-3264-4b55-86ee-a709f85ea35e)
