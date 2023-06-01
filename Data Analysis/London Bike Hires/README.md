@@ -23,4 +23,4 @@ After importing the data into Excel, i uploaded the dataset to Tableau and went 
 
 ![london_bikes tableau ](https://github.com/cezekwem/portfolio/assets/135195102/47465c07-3264-4b55-86ee-a709f85ea35e)
 
-This is the link to the interactive dashboard https://public.tableau.com/app/profile/chiugo/viz/Londonbicyclehires/Dashboard1
+This is the link to the interactive dashboard [here] (https://public.tableau.com/app/profile/chiugo/viz/Londonbicyclehires/Dashboard1)
