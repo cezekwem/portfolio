@@ -1,4 +1,4 @@
-***Evaluating the Perfomance for a London Bikes Company during and after COVID 19 ***
+**Evaluating the Perfomance for a London Bikes Company during and after COVID 19**
 
 
 Project Brief
@@ -9,6 +9,7 @@ To meet their demands, I decided to build a comprehensive, interactive dashboard
 
 
 **Data Collection**
+
 For this project, data was collected from the Big Query Public Datasets, which stores information about the bike brands, start and end station names, trip duration etc. (see database scheme below)
 
 ![image](https://github.com/cezekwem/portfolio/assets/135195102/7fda08aa-4fd2-471b-8747-63b7df104e16)
