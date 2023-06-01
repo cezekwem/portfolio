@@ -13,6 +13,7 @@ For this project, data was collected from the Big Query Public Datasets, which s
 ![image](https://github.com/cezekwem/portfolio/assets/135195102/7fda08aa-4fd2-471b-8747-63b7df104e16)
 
 **Data Ingestion and Cleaning using SQL and Microsoft Excel**
+
 The data was retrieved from "bigquery public datasets" and exported as a CSV to Microsoft excel
 ![image](https://github.com/cezekwem/portfolio/assets/135195102/c3a0b843-c431-454c-9f78-04f80fdb3e5d)
 
