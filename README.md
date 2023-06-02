@@ -7,11 +7,17 @@ I love automating systems to improve their effectiveness and efficiency, conduct
 
 Skillset includes:
 ▪️Database manipulation
+
 ▪️Data analysis lifecycle management
+
 ▪️Python (pandas, Numpy, matplotlib, statsmodels, Seaborn, SciPy, Pingouin)
+
 ▪️SQL
+
 ▪️Data visualization using Excel and Python libraries (Seaborn, Geopandas, Folium, Matplotlib)
+
 ▪️Exploratory data exploration
+
 ▪️Statistical analysis
 
 I'm excited to use this space to further display my work and show growth as I continue to solve problems that come my way. I hope you are blessed by this!  I'm always open to collaborate and learn from others, and can be reached professionally via E-mail and LinkedIn.
