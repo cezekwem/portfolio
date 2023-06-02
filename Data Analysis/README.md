@@ -16,4 +16,4 @@ Tags: **Database Design**| **Excel**| **Tableau**| **Powerpoint**
 [London Bike Hires](https://github.com/cezekwem/portfolio/tree/main/Data%20Analysis/London%20Bike%20Hires)
 Evaluated the performance of London Bikes Company and analyze the effects had, if any, during and after COVID 19 for the busiest season, June to September. Executives at this company are interested in reviewing the company's performance to see if/how COVID19 affected the company for the five most popular trip origin stations/locations.
 
-Tags: **SQL**| **Excel**| **Tableau**| **Excel**
+Tags: **SQL**| **Excel**| **Tableau**| **Excel**| **Big Query**
