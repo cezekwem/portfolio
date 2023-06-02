@@ -1,0 +1,36 @@
+/*
+This dataset was found in Bigquery Public Datasets which had been collected since 2015 and as a result contained 82 million rows. For my analysis, considering the space available, I decided to focus solely on the data before and after COVID 19 for the busiest season in the year (June - September) Since I'm working in Big query, I created a view of the required data and exported the data manually to a csv file. 
+This file will be loaded in MS Excel for further inspection and data cleaning (if required) and data analysis.
+If I was working from the SQL Server Database, I could automatically link my database to Excel.
+Note that this method also ensures that the data is automatically updated and is generally preferred.
+*/
+
+SELECT 
+  cycle_hires.duration,
+  cycle_hires.bike_id,
+  cycle_hires.bike_model,
+  cycle_hires.start_date,
+  cycle_hires.start_station_name,
+  cycle_hires.end_date,
+  cycle_hires.end_station_name,
+  cycle_stations.*,
+  EXTRACT(YEAR FROM cycle_hires.start_date) AS start_year,  -- extract year only from the date
+  EXTRACT(MONTH FROM cycle_hires.start_date) AS start_month, -- extract month only from the date
+  FORMAT_DATE('%B', cycle_hires.start_date) AS start_month_name, -- format for month name only
+  FORMAT_DATE('%A', cycle_hires.start_date) AS start_day_of_week -- select day of the week only
+FROM `bigquery-public-data.london_bicycles.cycle_hire` cycle_hires
+LEFT JOIN `bigquery-public-data.london_bicycles.cycle_stations` cycle_stations
+ -- Joining cycle hires with cycle stations on bike_id
+  ON cycle_hires.bike_id = cycle_stations.id
+WHERE EXTRACT(YEAR FROM cycle_hires.start_date) BETWEEN 2020 AND 2021
+  AND EXTRACT(MONTH FROM cycle_hires.start_date) BETWEEN 6 AND 9
+  AND cycle_hires.start_station_name IN (
+    SELECT start_station_name
+    FROM `bigquery-public-data.london_bicycles.cycle_hire`
+    WHERE EXTRACT(YEAR FROM start_date) BETWEEN 2020 AND 2021
+      AND EXTRACT(MONTH FROM start_date) BETWEEN 6 AND 9
+    GROUP BY start_station_name
+    ORDER BY COUNT(*) DESC
+    LIMIT 5 
+    -- Subquery to select summer months(June- September) for the top 5 trip origin stations
+  );
