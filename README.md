@@ -26,3 +26,8 @@ Skillset includes:
 I'm excited to use this space to further display my work and show growth as I continue to solve problems that come my way. I hope you are blessed by this!  I'm always open to collaborate and learn from others, and can be reached professionally via E-mail and LinkedIn.
 
 Have fun looking though these projects (I KNOW I DID!)
+
+Email- ezekwemchi@gmail.com
+Linkedin- www.linkedin.com/in/chiugo-ezekwem
+
+
