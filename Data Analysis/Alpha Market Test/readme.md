@@ -34,5 +34,7 @@ The Alpha Beauty offers were as followS-:
 
 ![image](https://github.com/cezekwem/portfolio/assets/135195102/a24852d1-cbc8-4861-8a54-1318560ecc37)
 
+A more interactive dashboard can be found [[here](https://public.tableau.com/app/profile/chiugo/viz/MarketTestResults2ppt/Dashboard2)] 
+
 
 
