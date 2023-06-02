@@ -8,6 +8,7 @@ Although I have 4 years of Finance Operations experience, data has been somethin
 I just finished a fellowship with Correlation One's Data Science for All Fellowship further expanding my knowledge in SQL, Tableau, and Python. 
 
 Skillset includes:
+
 ▪️Database manipulation
 
 ▪️Data analysis lifecycle management
