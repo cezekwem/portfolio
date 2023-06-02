@@ -8,7 +8,11 @@ The projects encompasses all aspects of the data pipeline i.e., data collection,
 **PROJECTS AT A GLANCE**
 
 [A/B Testing- Alpha Market Test](https://github.com/cezekwem/portfolio/tree/main/Data%20Analysis/Alpha%20Market%20Test) 
-Conducted an A/B test for a fictional client and  to design a build a relational database and dashboarding system for KPI, supply and labor monitoring
+Conducted an A/B test for a fictional client and observe the response of both the treatment and control groups of the 3 different customer cohort groups and build a dashboarding system for incremental sales, return on Ad-spend transactions, # of orders monitoriing. 
+
+Tags: Databse Design SQL Python Looker Studio
+
+
 
 
  [[here](https://public.tableau.com/app/profile/chiugo/viz/MarketTestResults2ppt/Dashboard2)] 
