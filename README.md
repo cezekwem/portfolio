@@ -1,9 +1,9 @@
-**CHIUGO'S Data Portfolio
+**CHIUGO'S Data Portfolio**
 
 Hello, and welcome to my data portfolio!
 
-My name is Chiugo and I have 4 years of Financial Operations experience. I had always been interested in data analytics but recently began my data journey in 2022 and I really enjoy automating systems to improve their effectiveness and efficiency.
-Originally a self-taught analyst but currently finished 📶 Correlation One's Data Science for All fellowship with SQL, Tableau and Python.
+My name is Chiugo and I'm really excited to display these analysis that I have been working on. Although I have 4 years of Finance Operations experience, data has been something that I really fell into at my previous role.
+I love automating systems to improve their effectiveness and efficiency, conducting analysis that generate insights to ameliorate business performance. I just finished a fellowship with Correlation One's Data Science for All Fellowship further expanding my knowledge in SQL, Tableau, and Python. 
 
 Skillset includes:
 ▪️Database manipulation
@@ -14,8 +14,6 @@ Skillset includes:
 ▪️Exploratory data exploration
 ▪️Statistical analysis
 
-Having worked in a high-growth tech startup, I excel in high-pressure environments, and I am keen to take on complex problems and time-sensitive assignments.
+I'm excited to use this space to further display my work and show growth as I continue to solve problems that come my way. I hope you are blessed by this!  I'm always open to collaborate and learn from others, and can be reached professionally via E-mail and LinkedIn.
 
-Today, I focus my data analytics and programming schools on solving any problem that comes my way. I'm always open to collaborate and learn from others, and can be reached professionally via E-mail and LinkedIn.
-
-Have fun looking though these projects!
+Have fun looking though these projects (I KNOW I DID!)
