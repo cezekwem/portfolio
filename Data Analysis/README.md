@@ -13,4 +13,5 @@ Conducted an A/B test for a fictional client and observe the response of both th
 Tags: **Databse Design**| **Excel**| **Tableau**| **Powerpoint** 
 
 
-[London Bike Hires](https://public.tableau.com/app/profile/chiugo/viz/MarketTestResults2ppt/Dashboard2)
+[London Bike Hires](https://github.com/cezekwem/portfolio/tree/main/Data%20Analysis/London%20Bike%20Hires)
+
