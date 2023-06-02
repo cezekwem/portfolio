@@ -1,11 +1,15 @@
 **DATA ANALYTICS FOR A/B MARKET TEST**
+
 **Project Outline**
+
 This project outlines the needs of a hypothetical business, “Alpha Beauty" and their A/B Test to figure out how best to serve their customers. The vizualization I create show the test results and enables the business to make an informed decision.
 
 **Project Brief**
+
 A leading American beauty retailer Alpha Beauty has approached Drop requesting help as they work to achieve their sales goals. Alpha’s account manager explains that they need help driving incremental sales. Specifically, they want to invest in marketing channels (like Drop) that can prove that for each dollar Alpha Beauty invests, they receive the most incremental sales in return (sales that they would not have received had they not invested). In response, Drop proposed to run a market test with Alpha Beauty:
 
-Market Test Plan
+**Market Test Plan**
+
 The goal of the test is to prove that customers in the exposed groups spend more at Alpha Beauty, compared to customers in the control groups. Specifically, customers were divided into 3 cohorts,
 each with an exposed and control group (see below).
 
@@ -26,4 +30,5 @@ The Alpha Beauty offers were as followS-:
 
 ![image](https://github.com/cezekwem/portfolio/assets/135195102/e20008d8-c16f-4e4f-a018-d8e0db3f52b7)
 
-[Dashboard 2.pdf](https://github.com/cezekwem/portfolio/files/11631969/Dashboard.2.pdf)
+![image](https://github.com/cezekwem/portfolio/assets/135195102/a24852d1-cbc8-4861-8a54-1318560ecc37)
+
