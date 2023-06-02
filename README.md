@@ -2,8 +2,10 @@
 
 Hello, and welcome to my data portfolio!
 
-My name is Chiugo and I'm really excited to display these analysis that I have been working on for the past few months. Although I have 4 years of Finance Operations experience, data has been something that I really fell into at my previous role.
-I love automating systems to improve their effectiveness and efficiency, conducting analysis that generate insights to ameliorate business performance and just having fun figuring out topics I'm interested/curious about using data. I just finished a fellowship with Correlation One's Data Science for All Fellowship further expanding my knowledge in SQL, Tableau, and Python. 
+My name is Chiugo and I'm really excited to display these analysis that I have been working on for the past few months. 
+Although I have 4 years of Finance Operations experience, data has been something that I really fell into at my previous role. I love automating systems to improve their effectiveness and efficiency, conducting analysis that generate insights to ameliorate business performance and just having fun figuring out topics I'm interested/curious about using data.
+
+I just finished a fellowship with Correlation One's Data Science for All Fellowship further expanding my knowledge in SQL, Tableau, and Python. 
 
 Skillset includes:
 ▪️Database manipulation
