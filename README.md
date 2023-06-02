@@ -27,7 +27,8 @@ I'm excited to use this space to further display my work and show growth as I co
 
 Have fun looking though these projects (I KNOW I DID!)
 
-Email- ezekwemchi@gmail.com
-Linkedin- www.linkedin.com/in/chiugo-ezekwem
+**Email- ezekwemchi@gmail.com**
+
+**Linkedin- www.linkedin.com/in/chiugo-ezekwem**
 
 
