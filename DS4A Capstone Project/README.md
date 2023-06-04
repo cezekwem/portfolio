@@ -15,3 +15,6 @@ This folder contains the work my team and I completed in fulfillment of our DS4A
 As a result of this project, my team won "The Most Distingushed Project" award out of 60 other teams. This was a very special project to us and I hope you enjoy it!
 
 ![image](https://github.com/cezekwem/portfolio/assets/135195102/95eb13d0-620c-4c98-86a1-824f0af44e9b)
+
+
+This is the link to the interactive dashboard [[here](https://public.tableau.com/app/profile/jas4697/viz/shared/4GN3H369K)] 
