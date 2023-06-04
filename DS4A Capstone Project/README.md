@@ -17,4 +17,4 @@ As a result of this project, my team won "The Most Distingushed Project" award o
 ![image](https://github.com/cezekwem/portfolio/assets/135195102/95eb13d0-620c-4c98-86a1-824f0af44e9b)
 
 
-This is the link to the interactive dashboard [[here](https://public.tableau.com/app/profile/jas4697/viz/shared/4GN3H369K)] 
+This is the link to the interactive dashboard [here](https://public.tableau.com/app/profile/jas4697/viz/shared/4GN3H369K)
